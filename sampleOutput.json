@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Biden asked if he’d pardon Hunter if convicted in gun trial. Hear his response | CNN Politics",
+            "description": "In an interview with ABC News, President Joe Biden says he will not pardon his son Hunter if he’s found guilty in his federal gun trial. CNN Political Director David Chalian joins Kasie Hunt to discuss.",
+            "url": "https://www.cnn.com/2024/06/07/politics/video/joe-biden-pardon-hunter-federal-gun-trial-abc-intvu-ctm-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240607-hunter-joe-biden-split-full16x9.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-07T12:23:37.227Z",
+            "content": "In an interview with ABC News, President Joe Biden says he will not pardon his son Hunter if he's found guilty in his federal gun trial. CNN Political Director David Chalian joins Kasie Hunt to discu… [+2 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Jorgensen",
+            "title": "Trump likes to make this promise a lot. Abby Phillip rolls the tape | CNN Politics",
+            "description": "CNN’s Abby Phillip weighs in on Donald Trump’s recurring pattern of making promises to deliver plans within a timeframe of “two weeks.”",
+            "url": "https://www.cnn.com/2024/06/06/politics/video/trump-two-week-promise-plans-phillip-newsnight-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240606-trumpabby-exlarge16x9.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-07T03:58:05.058Z",
+            "content": "CNN's Abby Phillip weighs in on Donald Trump's recurring pattern of making promises to deliver plans within a timeframe of \"two weeks.\""
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Sarah Jorgensen",
+            "title": "Jan. 6 committee member reacts to Trump’s call for indictment of committee members | CNN Politics",
+            "description": "In a series of social media posts, former President Donald Trump called for the indictment of members of the January 6. committee.  CNN’s Kaitlan Collins gets reaction from one of the committee members, Rep. Zoe Lofgren (D-CA).",
+            "url": "https://www.cnn.com/2024/06/06/politics/video/trump-january-6-committee-lofgren-src-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lofgren.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-07T03:17:29.178Z",
+            "content": "In a series of social media posts, former President Donald Trump called for the indictment of members of the January 6. committee. CNN's Kaitlan Collins gets reaction from one of the committee member… [+26 chars]"
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}

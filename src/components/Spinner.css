@@ -1,0 +1,12 @@
+.spinner-wrapper {
+    text-align: center;
+    padding: 10px;
+}
+
+.spinner-wrapper.light {
+    background-color: white;
+}
+
+.spinner-wrapper.dark {
+    background-color: rgb(4, 39, 67);
+}

@@ -128,7 +128,14 @@ import NewsItem from './NewsItem';
 import Spinner from './Spinner';
 import PropTypes from 'prop-types';
 
-const News = ({ country, pageSize, category, setProgress, apiKey, mode }) => {
+const News = ({
+  country = 'in',
+  pageSize = 9,
+  category = 'general',
+  setProgress,
+  apiKey,
+  mode
+}) => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading] = useState(false);
   const [page, setPage] = useState(1);
@@ -218,11 +225,6 @@ const News = ({ country, pageSize, category, setProgress, apiKey, mode }) => {
   );
 };
 
-News.defaultProps = {
-  country: 'in',
-  pageSize: 9,
-  category: 'general',
-};
 
 News.propTypes = {
   country: PropTypes.string,

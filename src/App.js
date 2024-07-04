@@ -7,7 +7,8 @@ import LoadingBar from 'react-top-loading-bar';
 
 const App = () => {
   const [mode, setMode] = useState('light');
-  const apiKey = process.env.REACT_APP_NEWS_API;
+  // const apiKey = process.env.REACT_APP_NEWS_API;
+  const apiKey = "bcd8fb6d4e0243eca04ef131e784b501"
 
   const toggleMode = () => {
     if (mode === 'light') {

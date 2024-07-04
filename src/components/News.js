@@ -150,10 +150,12 @@ const News = ({
     const updateNews = async () => {
       setProgress(10);
       const url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=${apiKey}&page=1&pageSize=${pageSize}`;
+      // console.log(apiKey)
       setLoading(true);
       const data = await fetch(url);
       setProgress(30);
       const parsedData = await data.json();
+      // console.log(parsedData)
       setProgress(60);
       setArticles(parsedData.articles);
       setTotalResults(parsedData.totalResults);
